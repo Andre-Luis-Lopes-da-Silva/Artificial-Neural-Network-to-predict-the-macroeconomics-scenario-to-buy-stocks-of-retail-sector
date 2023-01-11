@@ -1,5 +1,4 @@
 # Artificial-Neural-Network-to-predict-the-macroeconomics-scenario-to-buy-stocks-of-retail-sector
-In construction
 
 INTRODUCTION 
 
@@ -13,4 +12,6 @@ MACROECONOMIC INDICATORS AND RETAIL STOCKS
 
 Lojas Renner (LREN3) was chosen to be a representative stock of the retail sector of companies traded on B3.  The indices Broad National Consumer Price Index (IPCA), Special System for Settlement and Custody (selic), Central Bank Economic Activity Index (IBC-Br), Broad Retail Trade Confidence Index (ICOM), Future Expectations Index, Dollar (exchange), Consumer Stock Index (ICON) and Ibovespa Index (IBOV) were initially analysed by correlation. See the file (correlação_repository.ipynb). Data from during 10 years were used (2011-2021). 
 
-ARTIFICIAL NEURAL NETWORK
+STOCK TREND
+
+The trend of the stock was considered only bullish or bearish (binary classification). When the trend was sideway and followed by a uptrend, the trend was considered uptrend because it would be a good opportunite to buy. This same reasoning was used when there was a lateralization followed by a bearish trend.
