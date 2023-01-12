@@ -20,7 +20,10 @@ CONCLUSIONS
 
 The model needs to be improvement, the metrics obtained were: 
 
-Accuracy .:  0.7878787878787878
-Precision :  0.8076923076923077
-Recall ...:  0.9130434782608695
-F1 Score .:  0.7226890756302521 
+Accuracy .:  0.78
+
+Precision :  0.80
+
+Recall ...:  0.91
+
+F1 Score .:  0.72
