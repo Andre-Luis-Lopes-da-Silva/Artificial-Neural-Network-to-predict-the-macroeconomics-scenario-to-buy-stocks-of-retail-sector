@@ -1,5 +1,7 @@
 # Artificial-Neural-Network-to-predict-the-macroeconomics-scenario-to-buy-stocks-of-retail-sector
 
+DOI: 10.6084/m9.figshare.22674865
+
 INTRODUCTION 
 
 An artificial neural network is an information-processing paradigm that is inspired by the way biological nervous systems, such as the brain. The key element of this paradigm is the novel structure of the information processing system. It is composed of a large number of highly interconnected processing elements (neurons) working in unison to solve specific problems.
